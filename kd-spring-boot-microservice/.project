@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>kd-spring-boot-microservice</name>
+	<comment></comment>
+	<projects>
+		<project>movie-catalog-service</project>
+		<project>movie-info-service</project>
+		<project>rating-data-service</project>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>
